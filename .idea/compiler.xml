@@ -11,6 +11,7 @@
         <module name="eureka7002" />
         <module name="eureka7003" />
         <module name="feign" />
+        <module name="rabbitmq" />
         <module name="service8001" />
         <module name="service8002" />
         <module name="service8003" />
